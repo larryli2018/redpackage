@@ -83,7 +83,4 @@ http://ip:8080/reddata/userRunningWater2?lostwin=100&steal=100&runwater=100&win=
             @ApiImplicitParam(paramType = "query", name = "roomJid", value = "群jid", dataType = "String", required = true)
             
             
-  9.
-  skype:jackmingli2029@outlook.com          
-  添加时备注项目名称
   
